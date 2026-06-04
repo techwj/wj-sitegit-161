@@ -1,0 +1,59 @@
+{
+  "siteId": "dog-outing-precautions",
+  "generatedAt": "2026-06-04T11:36:20.384607",
+  "categories": [
+    "beginner-dog-outing-precautions",
+    "advanced-dog-outing-precautions",
+    "tips-dog-outing-precautions",
+    "history-dog-outing-precautions",
+    "trending-dog-outing-precautions",
+    "tutorials-dog-outing-precautions"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-dog-outing-precautions",
+      "category_name": "Beginner Dog Outing Precautions"
+    },
+    {
+      "category_slug": "advanced-dog-outing-precautions",
+      "category_name": "Advanced Dog Outing Precautions"
+    },
+    {
+      "category_slug": "tips-dog-outing-precautions",
+      "category_name": "Dog Outing Precautions Tips"
+    },
+    {
+      "category_slug": "history-dog-outing-precautions",
+      "category_name": "Dog Outing Precautions History"
+    },
+    {
+      "category_slug": "trending-dog-outing-precautions",
+      "category_name": "Trending Dog Outing Precautions"
+    },
+    {
+      "category_slug": "tutorials-dog-outing-precautions",
+      "category_name": "Dog Outing Precautions Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "dog-outing-precautions",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Dog Outing Precautions Central",
+    "articles_per_row": 3
+  }
+}

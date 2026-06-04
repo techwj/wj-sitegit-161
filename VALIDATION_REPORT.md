@@ -1,0 +1,88 @@
+# Validation Report - dog-outing-precautions
+
+Generated: 2026-06-04T11:36:20.384473
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Dog Outing Precautions
+- ✓ Article word count OK: Beginner Dog Outing Precautions: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Dog Outing Precautions
+- ✓ Article word count OK: Beginner Dog Outing Precautions Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Dog Outing Precautions
+- ✓ Article word count OK: Beginner Dog Outing Precautions in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Dog Outing Precautions
+- ✓ Article word count OK: Common Mistakes in Beginner Dog Outing Precautions
+- ✓ Article word count OK: Beginner Dog Outing Precautions for Beginners
+- ✓ Article word count OK: Advanced Beginner Dog Outing Precautions Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Dog Outing Precautions
+- ✓ Article word count OK: Advanced Dog Outing Precautions: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Dog Outing Precautions
+- ✓ Article word count OK: Advanced Dog Outing Precautions Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Dog Outing Precautions
+- ✓ Article word count OK: Advanced Dog Outing Precautions in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Dog Outing Precautions
+- ✓ Article word count OK: Common Mistakes in Advanced Dog Outing Precautions
+- ✓ Article word count OK: Advanced Dog Outing Precautions for Beginners
+- ✓ Article word count OK: Advanced Advanced Dog Outing Precautions Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Outing Precautions Tips
+- ✓ Article word count OK: Dog Outing Precautions Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Outing Precautions Tips
+- ✓ Article word count OK: Dog Outing Precautions Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Outing Precautions Tips
+- ✓ Article word count OK: Dog Outing Precautions Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Outing Precautions Tips
+- ✓ Article word count OK: Common Mistakes in Dog Outing Precautions Tips
+- ✓ Article word count OK: Dog Outing Precautions Tips for Beginners
+- ✓ Article word count OK: Advanced Dog Outing Precautions Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Outing Precautions History
+- ✓ Article word count OK: Dog Outing Precautions History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Outing Precautions History
+- ✓ Article word count OK: Dog Outing Precautions History Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Outing Precautions History
+- ✓ Article word count OK: Dog Outing Precautions History in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Outing Precautions History
+- ✓ Article word count OK: Common Mistakes in Dog Outing Precautions History
+- ✓ Article word count OK: Dog Outing Precautions History for Beginners
+- ✓ Article word count OK: Advanced Dog Outing Precautions History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Dog Outing Precautions
+- ✓ Article word count OK: Trending Dog Outing Precautions: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Dog Outing Precautions
+- ✓ Article word count OK: Trending Dog Outing Precautions Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Dog Outing Precautions
+- ✓ Article word count OK: Trending Dog Outing Precautions in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Dog Outing Precautions
+- ✓ Article word count OK: Common Mistakes in Trending Dog Outing Precautions
+- ✓ Article word count OK: Trending Dog Outing Precautions for Beginners
+- ✓ Article word count OK: Advanced Trending Dog Outing Precautions Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Outing Precautions Tutorials
+- ✓ Article word count OK: Dog Outing Precautions Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Outing Precautions Tutorials
+- ✓ Article word count OK: Dog Outing Precautions Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Outing Precautions Tutorials
+- ✓ Article word count OK: Dog Outing Precautions Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Outing Precautions Tutorials
+- ✓ Article word count OK: Common Mistakes in Dog Outing Precautions Tutorials
+- ✓ Article word count OK: Dog Outing Precautions Tutorials for Beginners
+- ✓ Article word count OK: Advanced Dog Outing Precautions Tutorials Techniques
+- ✓ Ad configuration validated
